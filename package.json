@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@google/generative-ai": "^0.20.0",
+    "fs": "^0.0.1-security",
+    "querystring": "^0.2.1"
+  },
+  "type": "module",
+  "name": "automated-study-resource-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andi Ahmad Yusup",
+  "license": "MIT",
+  "description": ""
+}

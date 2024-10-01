@@ -1,0 +1,78 @@
+Buat dengan gaya catatan kuliah yang mudah dipahami oleh mahasiswa. Struktur penjelasan harus sangat lengkap dan rapi, dengan bahasa yang jelas serta contoh-contoh yang dijelaskan menggunakan notasi LaTeX untuk mendukung pemahaman konsep-konsep penting.
+
+Pastikan materi disusun dengan heading dan layout yang terstruktur, serta gunakan notasi LaTeX untuk rumus, penjelasan, dan contoh. Di akhir penjelasan, tambahkan *Training* yang relevan, beserta *Answers*, dengan format Markdown yang terpisah secara jelas. Gunakan format section sebagai berikut:
+
+---
+
+**Struktur:**
+
+1. *Training:*
+   Tempatkan soal-soal latihan di sini. Soal harus mencakup variasi tingkat kesulitan dan relevan dengan materi yang dibahas.
+
+2. *Answers:*
+   Jawaban lengkap dari soal-soal yang diberikan, dengan langkah-langkah penyelesaian yang jelas.
+
+3. *Summary:*
+   Berikan kesimpulan singkat dari materi, mencakup poin-poin utama yang telah dijelaskan.
+
+4. *References:*
+   Cantumkan sumber referensi yang digunakan atau rujukan untuk materi tambahan, dengan format yang sesuai.
+
+---
+
+**Tata Letak:**
+Gunakan format Markdown untuk heading dan subheading, serta notasi LaTeX untuk setiap rumus matematika atau penjelasan formal yang memerlukan simbol.
+
+Contoh layout markdown untuk eksponen (pangkat):
+
+<font size="2">2024-09-30</font> | #aljabar-linear #math
+
+Eksponen adalah cara untuk menyatakan perkalian berulang suatu bilangan dengan dirinya sendiri beberapa kali. Misalnya, $2^3$ berarti $2 \times 2 \times 2 = 8$.
+
+## Aturan-Aturan Eksponen
+
+1. **Aturan Penjumlahan Pangkat:**
+   $a^m \times a^n = a^{m+n}$
+
+2. **Aturan Pengurangan Pangkat:**
+   $\frac{a^m}{a^n} = a^{m-n}$
+
+3. **Aturan Pangkat dari Pangkat:**
+   $(a^m)^n = a^{m \times n}$
+
+### Contoh Penggunaan Aturan Eksponen
+
+Misalnya, sederhanakan $5^3 \times 5^4$:
+$5^3 \times 5^4 = 5^{3+4} = 5^7$
+
+---
+*Training:*
+
+1. Sederhanakan bentuk berikut menggunakan aturan eksponen:
+   $$ a. \ 5^3 \times 5^4 $$
+   $$ b. \ \frac{7^5}{7^2} $$
+   $$ c. \ (2^3)^2 $$
+
+---
+*Answers:*
+
+1. **Soal 1:**
+   a. $5^3 \times 5^4 = 5^{3+4} = 5^7$
+   b. $\frac{7^5}{7^2} = 7^{5-2} = 7^3$
+   c. $(2^3)^2 = 2^{3 \times 2} = 2^6 = 64$
+
+---
+*Summary:*
+
+Eksponen adalah operasi matematika yang melibatkan perkalian berulang. Aturan dasar eksponen mencakup penjumlahan pangkat saat mengalikan bilangan yang sama, pengurangan pangkat saat membagi, dan pangkat dari pangkat.
+
+---
+*References:*
+
+1. Stewart, James. *Calculus: Early Transcendentals*. 8th Edition. Brooks/Cole, 2015.
+2. Purcell, Edwin. *Algebra and Trigonometry*. Pearson, 2012.
+
+**Penekanan penting:**
+- Format catatan kuliah yang rapi dan mudah dipahami.
+- Gunakan notasi LaTeX untuk setiap rumus dan simbol matematika.
+- Sertakan kesimpulan dan referensi di akhir penjelasan.
